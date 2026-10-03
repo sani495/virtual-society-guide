@@ -23,14 +23,16 @@ This is how you show up in the government's partner list.
 
 ## 3. Fund Your Treasury
 
-Before anyone can work, your treasury needs money:
+Before anyone can work, your treasury needs money: `/fund amount:100000`
 
-`/setup action:serverfund value:100000`
 
-You (or a governor) can fund it. 100k lasts a while for a small server.
+Any admin with **Manage Server** permission can fund the treasury. 100k
+lasts a while for a small server.
 
-Every new member adds 🪙 500 to your treasury automatically.
+**Every new member adds 🪙 500 to your treasury automatically.**
 
+> Heads-up: funding prints new money into the global economy. Don't
+> overdo it — it inflates everyone's wallets over time.
 ---
 
 
@@ -94,6 +96,7 @@ Shows:
 |---|---|
 | `/admin-config` | Welcome + server name |
 | `/owner-config` | Bot-owner only: global settings |
+| `/fund` | Fund money to your own treasury.
 | `/create-job` | Configure job slots |
 | `/create-shop`| Make a shop for both role and channel |
 | `/shop-toggle` | Turn shops on/off |
