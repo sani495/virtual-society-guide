@@ -24,6 +24,7 @@ There's no interest yet. Both are just storage right now.
 You can type `all` in place of a number:
 
 /deposit amount:all
+
 /withdraw amount:all
 
 
