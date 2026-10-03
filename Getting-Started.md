@@ -43,4 +43,4 @@ You now know 90% of the bot. Everything else is detail.
 
 - Want the deep dive? → **[The Economy](The-Economy)**
 - Stuck? → **[FAQ](FAQ)**
-- Running a server? → **[For Server Owners](For-Server-Owners)**
+- Running a server? → **[For Server Owners](https://github.com/sani495/virtual-society-guide/blob/main/For-Server-Owners.md)**
