@@ -23,8 +23,8 @@ earn to pay.
 ## Three Layers of Money
 
 1. **You** — personal Cash and Bank
-2. **The Server** — a shared treasury (`/serverbank`)
-3. **The World** — one global bank across all servers (`/globalbank`)
+2. **The Server** — a shared treasury (`/server-bank`)
+3. **The World** — one global bank across all servers (`/global-bank`)
 
 Money flows between all three.
 
