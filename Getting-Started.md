@@ -41,6 +41,6 @@ If you have enough cash, you own it.
 
 You now know 90% of the bot. Everything else is detail.
 
-- Want the deep dive? → **[The Economy](The-Economy)**
+- Want the deep dive? → **[The Economy](https://github.com/sani495/virtual-society-guide/blob/main/The-Economy.md)**
 - Stuck? → **[FAQ](https://github.com/sani495/virtual-society-guide/blob/main/FAQ.md)**
 - Running a server? → **[For Server Owners](https://github.com/sani495/virtual-society-guide/blob/main/For-Server-Owners.md)**
