@@ -29,7 +29,7 @@ Then run `/work` every hour to earn. That's the core loop.
 - **[The Economy](https://github.com/sani495/virtual-society-guide/blob/main/The-Economy.md)** — how money actually moves
 - **[Government](https://github.com/sani495/virtual-society-guide/blob/main/Government.md)** — global bank, loans, promos
 - **[FAQ](https://github.com/sani495/virtual-society-guide/blob/main/FAQ.md)** — quick answers
-- **[For Server Owners](For-Server-Owners)** — add the bot, set it up
+- **[For Server Owners](https://github.com/sani495/virtual-society-guide/blob/main/For-Server-Owners.md)** — add the bot, set it up
 
 ---
 
