@@ -54,6 +54,7 @@ Set XP per level: `/set-levels xp:10 pay:
 ## 5. Set Up Your Shop (Optional)
 
 Turn on role shop: /shop-settings type:roles state:on
+
 ---
 
 ## 6. Configure Welcome Messages (Optional)
