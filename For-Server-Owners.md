@@ -65,7 +65,7 @@ Same for channels:
 
 `/shopsettings type:channels state:on`
 
-/create-shop type:channel slot:1 target:(ID OF TYPE) price:1000`
+`/create-shop type:channel slot:1 target:(ID OF TYPE) price:1000`
 
 ---
 
