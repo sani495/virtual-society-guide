@@ -26,7 +26,7 @@ Then run `/work` every hour to earn. That's the core loop.
 - **[Money & Banking](https://github.com/sani495/virtual-society-guide/blob/main/Money-And-Banking.md)** — wallet, bank, transfers
 - **[Jobs](https://github.com/sani495/virtual-society-guide/blob/main/Jobs.md)** — work, level up, get promoted
 - **[Shop](https://github.com/sani495/virtual-society-guide/blob/main/Shop.md)** — buy roles and channels
-- **[The Economy](The-Economy)** — how money actually moves
+- **[The Economy](https://github.com/sani495/virtual-society-guide/blob/main/The-Economy.md)** — how money actually moves
 - **[Government](Government)** — global bank, loans, promos
 - **[FAQ](FAQ)** — quick answers
 - **[For Server Owners](For-Server-Owners)** — add the bot, set it up
