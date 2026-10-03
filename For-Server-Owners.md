@@ -30,14 +30,24 @@ Every new member adds 🪙 500 to your treasury automatically.
 
 ---
 
+
+
+You (or a governor) can fund it. 100k lasts a while for a small server.
+
+**Every new member adds 🪙 500 to your treasury automatically.**
+
+---
+
 ## 4. Set Up Your Job Market
 
 Pick which jobs your server offers:
 `/create-job slot:1 name:Miner minpay:50 maxpay:150 level:1`
+
 Repeat for slots 1 through 5. Set different pay ranges for different jobs.
 
 Set work cooldown: `/set-cooldown minutes:60`
 Set XP per level: `/set-levels xp:10 pay:5`
+
 ---
 
 ## 5. Set Up Your Shop (Optional)
@@ -54,7 +64,7 @@ Same for channels:
 `/admin-config:welcomechannel value:1234567890123456789
 `/admin-config:welcomemsg value:Welcome, {user}! Glad you're here.`
 
-# If welcome system is on, every member who joins automatically funds your server 🪙500. 
+If welcome system is on, every member who joins automatically funds your server 🪙500. 
 `{user}` will be replaced with the new member's mention.
 
 ---
