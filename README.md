@@ -22,7 +22,7 @@ Then run `/work` every hour to earn. That's the core loop.
 
 ## What's Inside
 
-- **[Getting Started](Getting Started.md2520Started.md)** — your first 5 minutes
+- **[Getting Started](Getting-Started)** — your first 5 minutes
 - **[Money & Banking](Money-and-Banking)** — wallet, bank, transfers
 - **[Jobs](Jobs)** — work, level up, get promoted
 - **[Shop](Shop)** — buy roles and channels
