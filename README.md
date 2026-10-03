@@ -13,7 +13,7 @@ economy that lives across Discord.
 Run these three commands the moment you join a server with Virtual Society:
 
 1. `/balance` — see how much money you have
-2. `/jobs` — look at available jobs
+2. `/job-list` — look at available jobs
 3. `/apply slot:1` — grab your first one
 
 Then run `/work` every hour to earn. That's the core loop.
