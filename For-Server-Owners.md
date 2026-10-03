@@ -16,6 +16,7 @@ Use the invite link the bot owner shared. Standard permissions:
 
 ## 2. Set Up Your Server
 `/admim-config action:setservername value:Your Server Name`
+
 This is how you show up in the government's partner list.
 
 ---
@@ -23,7 +24,9 @@ This is how you show up in the government's partner list.
 ## 3. Fund Your Treasury
 
 Before anyone can work, your treasury needs money:
+
 `/setup action:serverfund value:100000`
+
 You (or a governor) can fund it. 100k lasts a while for a small server.
 
 Every new member adds 🪙 500 to your treasury automatically.
@@ -55,16 +58,20 @@ Set XP per level: `/set-levels xp:10 pay:5`
 ## 5. Set Up Your Shop (Optional)
 
 Turn on role shop: `/shop-settings type:roles state:on`
+
 Add a role: `/create-shop type:roles slot:1 target:(ID OF TYPE) price:1000`
 
 Same for channels: 
+
 `/shopsettings type:channels state:on`
+
 /create-shop type:channel slot:1 target:(ID OF TYPE) price:1000`
 
 ---
 
 ## 6. Configure Welcome Messages (Optional)
 `/admin-config:welcomechannel value:1234567890123456789
+
 `/admin-config:welcomemsg value:Welcome, {user}! Glad you're here.`
 
 If welcome system is on, every member who joins automatically funds your server 🪙500. 
