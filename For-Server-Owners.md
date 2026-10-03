@@ -26,7 +26,7 @@ Before anyone can work, your treasury needs money:
 `/setup action:serverfund value:100000`
 You (or a governor) can fund it. 100k lasts a while for a small server.
 
--# Every new member adds 🪙 500 to your treasury automatically.
+Every new member adds 🪙 500 to your treasury automatically.
 
 ---
 
