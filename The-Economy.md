@@ -37,6 +37,7 @@ bug — it's the economy.
 
 To refill a treasury:
 - Players buy shop items
+- Admins run `/fund` (this prints new money)
 - Governors issue grants
 - The government sends promos
 
