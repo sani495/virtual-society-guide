@@ -92,16 +92,15 @@ Shows:
 
 | Command | Purpose |
 |---|---|
-| `/config` | Welcome + server name |
-| `/setup` | Bot-owner only: global settings |
-| `/setjob` | Configure job slots |
-| `/setshoprole` | Add role to shop |
-| `/setshopchannel` | Add channel to shop |
-| `/shopsettings` | Turn shops on/off |
-| `/removeshopitem` | Remove item from shop |
-| `/serverbank` | View treasury |
-| `/serverloan` | Borrow from global bank |
-| `/loanpay` | Repay a loan |
+| `/admin-config` | Welcome + server name |
+| `/owner-config` | Bot-owner only: global settings |
+| `/create-job` | Configure job slots |
+| `/create-shop`| Make a shop for both role and channel |
+| `/shop-toggle` | Turn shops on/off |
+| `/remove-shop-item` | Remove item from shop |
+| `/server-bank` | View treasury |
+| `/server-loan` | Borrow from global bank |
+| `/loan-pay` | Repay a loan |
 | `/gov-grant` | Governors only: grant money |
 | `/redeem` | Redeem a promo code |
 
