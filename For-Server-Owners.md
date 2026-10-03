@@ -46,7 +46,8 @@ Pick which jobs your server offers:
 Repeat for slots 1 through 5. Set different pay ranges for different jobs.
 
 Set work cooldown: `/set-cooldown minutes:60`
-Set XP per level: `/set-levels xp:10 pay:
+
+Set XP per level: `/set-levels xp:10 pay:5`
 
 
 ---
