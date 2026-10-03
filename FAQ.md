@@ -36,7 +36,7 @@ Your server's shop sells them. Check `/shop`.
 
 **How do I get my server partnered?**
 
-Contact the government staff in TwiceDice Support.
+Contact the government staff in [TwiceDice Support](https://discord.gg/Fwavq3GNxs)
 
 ---
 
