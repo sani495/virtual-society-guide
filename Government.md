@@ -15,7 +15,7 @@ economy**. It's connected to [TwiceDice Support](https://discord.gg/pzSdaFzR83).
 
 ---
 
-## See It - `/government`
+## See It - /government
 
 Shows:
 - Government server name
