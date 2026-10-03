@@ -9,7 +9,8 @@ Quick answers to common questions.
 Three possibilities:
 - You don't have a job → `/apply slot:1`
 - You're on cooldown → wait
-- Your server's treasury is empty → tell an admin
+- Your server's treasury is empty → tell an admin. They can run `/fund`
+  to refill it.
 
 ---
 
