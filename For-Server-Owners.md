@@ -53,7 +53,12 @@ Set XP per level: `/set-levels xp:10 pay:
 
 ## 5. Set Up Your Shop (Optional)
 
-Turn on role shop: /shop-settings type:roles state:on
+Turn on role shop: `/shop-settings type:roles state:on`
+Add a role: `/create-shop type:roles slot:1 target:(ID OF TYPE) price:1000`
+
+Same for channels: 
+`/shopsettings type:channels state:on`
+/create-shop type:channel slot:1 target:(ID OF TYPE) price:1000`
 
 ---
 
