@@ -22,10 +22,9 @@ You'll see two numbers:
 ---
 
 ## 3. Work
-/work - You earn money every shift. There's a cooldown — usually an hour.
-
 **Your paycheck comes from the server's treasury.** If the treasury is
-empty, you can't get paid. Not your fault. Tell an admin.
+empty, you can't get paid. Not your fault. Tell an admin — they can use
+`/fund` to refill it.
 
 ---
 
