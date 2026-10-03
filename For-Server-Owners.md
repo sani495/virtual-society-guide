@@ -46,18 +46,14 @@ Pick which jobs your server offers:
 Repeat for slots 1 through 5. Set different pay ranges for different jobs.
 
 Set work cooldown: `/set-cooldown minutes:60`
-Set XP per level: `/set-levels xp:10 pay:5`
+Set XP per level: `/set-levels xp:10 pay:
+
 
 ---
 
 ## 5. Set Up Your Shop (Optional)
 
-Turn on role shop: `/shop-toggle type:roles state:on`
-Add a role: `/setshoprole slot:1 role:@VIP price:5000`
-
-Same for channels: 
-`/shop-toggle` type:channels state:on`
-`/setshopchannel slot:1 channel:#vip-lounge price:10000`
+Turn on role shop: /shop-settings type:roles state:on
 ---
 
 ## 6. Configure Welcome Messages (Optional)
