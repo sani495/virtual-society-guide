@@ -12,7 +12,7 @@ Most economy bots print money out of nowhere. This one doesn't.
 **Every dollar comes from somewhere and goes somewhere.**
 
 - `/work` takes money from the **server's treasury** and gives it to you
-- `/buyitem` takes your cash and puts it in the **server's treasury**
+- `/buy-item` takes your cash and puts it in the **server's treasury**
 - The government can **print money** into the system via grants and promos
 
 If the treasury runs dry, work stops. That's intended. Servers have to
@@ -50,7 +50,7 @@ Servers can borrow from the global bank. Three loans max. Server admins
 handle this — players don't take loans personally.
 
 Money borrowed goes into the server treasury to fund work and events.
-Repay it with `/loanpay`.
+Repay it with `/loan-pay`.
 
 ---
 
