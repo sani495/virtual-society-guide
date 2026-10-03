@@ -36,9 +36,7 @@ If you have enough cash, you own it.
 
 ---
 
-## That's It
-
-You now know 90% of the bot. Everything else is detail.
+## That's all, Folks!
 
 - Want the deep dive? → **[The Economy](https://github.com/sani495/virtual-society-guide/blob/main/The-Economy.md)**
 - Stuck? → **[FAQ](https://github.com/sani495/virtual-society-guide/blob/main/FAQ.md)**
