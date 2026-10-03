@@ -33,4 +33,4 @@ Then run `/work` every hour to earn. That's the core loop.
 
 ---
 
-*Built by one person. Powered by you.*
+*Built by one person. Powered by BDFD.*
