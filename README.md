@@ -38,4 +38,4 @@ be under construction — see **[Under Construction](https://github.com/sani495/
 
 ---
 
-*Built by one person. Powered by BDFD.*
+*Built by one person. Made for all.*
