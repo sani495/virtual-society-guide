@@ -31,7 +31,7 @@ Then run `/work` every hour to earn. That's the core loop.
 - **[FAQ](https://github.com/sani495/virtual-society-guide/blob/main/FAQ.md)** — quick answers
 - **[For Server Owners](https://github.com/sani495/virtual-society-guide/blob/main/For-Server-Owners.md)** — add the bot, set it up
 
-## Systems Under Development
+### Systems Under Development
 
 Some features are being built live. If a command doesn't work, it might
 be under construction — see **[Under Construction](https://github.com/sani495/virtual-society-guide/blob/main/Under-Construction.md)**.
