@@ -1,4 +1,4 @@
-# 🧪 Alpha & Beta Testers
+## 🧪 Alpha & Beta Testers
 
 Virtual Society is being built in public. Our alpha and beta testers
 get early access to new features and help shape the bot.
