@@ -75,7 +75,7 @@ Same for channels:
 > be **above** the role that owns the channel you're selling.
 >
 > If you skip this, buyers will see a "Channel Setup Issue" error and
-> won't be charged. See [FAQ](FAQ) for the full fix.
+> won't be charged. See [FAQ](https://github.com/sani495/virtual-society-guide/blob/main/FAQ.md) for the full fix.
 
 ---
 
