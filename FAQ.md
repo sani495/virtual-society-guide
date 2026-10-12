@@ -73,3 +73,40 @@ those commands. Your bank data is read-only for others.
 Probably not. Money isn't stored per-server — it's attached to your
 Discord account. If something looks wrong, report it in the support
 server.
+
+---
+
+## ⚠️ "Channel Setup Issue"
+
+If you see this when buying or selling a channel:
+
+> ⚠️ **Channel Setup Issue**
+> I couldn't grant/remove access to that channel.
+>
+> **Tell your server admin:**
+> • Give the bot **Manage Roles** at the server level
+> • Make sure the bot's role is **above** that channel's role
+> • Give the bot **Manage Permissions** inside that channel
+
+**What this means:** The bot doesn't have permission to modify that
+specific channel's access.
+
+**How to fix it (server admins):**
+
+1. Open **Server Settings → Roles**
+2. Find your bot's role
+3. Enable **Manage Roles** ✅
+4. Drag the bot's role **above** the role that owns that channel
+5. Save
+
+**Still not working?** Check the channel directly:
+
+1. Right-click the channel → **Edit Channel** → **Permissions**
+2. Find the bot's role
+3. Enable **Manage Permissions** and **View Channel**
+4. Save
+
+**The player wasn't charged.** If the error happens during a buy or
+sell, the transaction was automatically cancelled.
+
+**Still stuck?** Join **[TwiceDice Support](https://discord.gg/Fwavq3GNxs)** and ping a staff member.
