@@ -83,9 +83,14 @@ If you see this when buying or selling a channel:
 > ⚠️ **Channel Setup Issue**
 > I couldn't grant/remove access to that channel.
 >
+>
+
 > **Tell your server admin:**
+
 > • Give the bot **Manage Roles** at the server level
+
 > • Make sure the bot's role is **above** that channel's role
+
 > • Give the bot **Manage Permissions** inside that channel
 
 **What this means:** The bot doesn't have permission to modify that
