@@ -69,6 +69,14 @@ Same for channels:
 
 `/create-shop type:channel slot:1 target:(ID OF TYPE) price:1000`
 
+> **⚠️ Before adding channels to the shop:**
+>
+> The bot needs **Manage Roles** at the server level, AND its role must
+> be **above** the role that owns the channel you're selling.
+>
+> If you skip this, buyers will see a "Channel Setup Issue" error and
+> won't be charged. See [FAQ](FAQ) for the full fix.
+
 ---
 
 ## 6. Configure Welcome Messages (Optional)
