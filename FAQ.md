@@ -86,11 +86,11 @@ If you see this when buying or selling a channel:
 >
 
 > **Tell your server admin:**
-
+> 
 > • Give the bot **Manage Roles** at the server level
-
-> • Make sure the bot's role is **above** that channel's role
-
+> 
+> • Make sure the bot's role is **above** that member's role
+> 
 > • Give the bot **Manage Permissions** inside that channel
 
 **What this means:** The bot doesn't have permission to modify that
