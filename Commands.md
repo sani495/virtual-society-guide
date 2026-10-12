@@ -61,22 +61,10 @@ You can also set your bio from `/settings` → User → Bio.
 
 | Command | What it does |
 |---|---|
-| `/serverbank` | View this server's treasury |
-| `/globalbank` | View the world treasury |
-| `/serverloan amount:10000` | Borrow from the global bank (admins) |
-| `/loanpay amount:10000` | Repay your server's loan (admins) |
-
----
-
-## 🏛️ Government
-
-| Command | What it does |
-|---|---|
-| `/government` | View the government and partnered servers |
-| `/partner server_id:...` | Partner a server (governors) |
-| `/unpartner server_id:...` | Remove a partner (governors) |
-| `/gov-grant amount:5000` | Grant money to a server (governors) |
-| `/setgovserver` | Set this server as the government (owner) |
+| `/server-bank` | View this server's treasury |
+| `/global-bank` | View the world treasury |
+| `/server-loan amount:10000` | Borrow from the global bank (admins) |
+| `/loan-pay amount:10000` | Repay your server's loan (admins) |
 
 ---
 
@@ -96,7 +84,7 @@ You can also set your bio from `/settings` → User → Bio.
 | Command | What it does |
 |---|---|
 | `/settings` | Open the settings hub |
-| `/config` | Welcome channel and message (admins) |
+| `/welcome-config` | Welcome channel and message (admins) |
 | `/set-server-name` | Name your server in the network (admins) |
 | `/fund amount:50000` | Add money to your treasury (admins) |
 
@@ -106,11 +94,11 @@ You can also set your bio from `/settings` → User → Bio.
 
 | Command | What it does |
 |---|---|
-| `/setjob slot:1 name:Miner minpay:50 maxpay:150 level:1` | Create a job (admins) |
-| `/removejob slot:1` | Delete a job (admins) |
-| `/setcooldown minutes:60` | Set work cooldown (admins) |
-| `/setlevels xp:10 pay:5` | Set XP scaling (admins) |
-| `/setcoin emoji:🪙` | Set currency emoji (admins) |
+| `/create-job slot:1 name:Miner minpay:50 maxpay:150 level:1` | Create a job (admins) |
+| `/remove-job slot:1` | Delete a job (admins) |
+| `/set-cooldown minutes:60` | Set work cooldown (admins) |
+| `/set-levels xp:10 pay:5` | Set XP scaling (admins) |
+| `/set-coin emoji:🪙` | Set currency emoji (admins) |
 
 ---
 
@@ -118,22 +106,26 @@ You can also set your bio from `/settings` → User → Bio.
 
 | Command | What it does |
 |---|---|
-| `/shopsettings type:roles state:on` | Turn the role shop on or off (admins) |
-| `/shopsettings type:channels state:on` | Turn the channel shop on or off (admins) |
-| `/setshopitem type:roles slot:1 target:ROLE_ID price:5000` | Add a role to the shop (admins) |
-| `/setshopitem type:channels slot:1 target:CHANNEL_ID price:10000` | Add a channel to the shop (admins) |
-| `/removeshopitem type:roles slot:1` | Remove a shop item (admins) |
+| `/shop-toggle type:roles state:on` | Turn the role shop on or off (admins) |
+| `/shop-toggle type:channels state:on` | Turn the channel shop on or off (admins) |
+| `/create-shop-item type:roles slot:1 target:ROLE_ID price:5000` | Add a role to the shop (admins) |
+| `/create-shop-item type:channels slot:1 target:CHANNEL_ID price:10000` | Add a channel to the shop (admins) |
+| `/remove-shop-item type:roles slot:1` | Remove a shop item (admins) |
 
 ---
 
 ## 🔒 Bot Owner Commands
 
-These are only available to the bot developer.
+These are only available to the bot developer. (Except for /government)
 
 | Command | What it does |
 |---|---|
-| `/setup` | Manage governors, funds, resets |
-| `/construction` | Lock or unlock systems during development |
+| `/owner-config` | Manage governors, funds, resets |
+| `/lockdown` | Lock or unlock systems during development |
+| `/government` | View the government and partnered servers |
+| `/gov-grant amount:5000` | Grant money to a server (governors) |
+| `/set-government` | Set this server as the government (owner) |
+
 
 ---
 
