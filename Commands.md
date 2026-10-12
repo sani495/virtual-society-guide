@@ -131,9 +131,9 @@ These are only available to the bot developer. (Except for /government)
 
 ## 🆘 Getting Help
 
-- **Stuck on a command?** Check the [FAQ](FAQ)
-- **Something broke?** Report it in **TwiceDice Support**
-- **New to the bot?** Start with [Getting Started](Getting-Started)
+- **Stuck on a command?** Check the [FAQ](https://github.com/sani495/virtual-society-guide/blob/main/FAQ.md)
+- **Something broke?** Report it in **[TwiceDice Support](https://discord.gg/Fwavq3GNxs)**
+- **New to the bot?** Start with [Getting Started](https://github.com/sani495/virtual-society-guide/blob/main/Getting-Started.md)
 
 ---
 
