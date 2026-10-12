@@ -23,7 +23,7 @@ Then run `/work` every hour to earn. That's the core loop.
 ## What's Inside
 
 - **[Getting Started](https://github.com/sani495/virtual-society-guide/blob/main/Getting-Started.md)** — your first 5 minutes
-- **[Commands](Commands)** - every list of commands possible
+- **[Commands](https://github.com/sani495/virtual-society-guide/blob/main/Commands.md)** - every list of commands possible
 - **[Money & Banking](https://github.com/sani495/virtual-society-guide/blob/main/Money-And-Banking.md)** — wallet, bank, transfers
 - **[Jobs](https://github.com/sani495/virtual-society-guide/blob/main/Jobs.md)** — work, level up, get promoted
 - **[Shop](https://github.com/sani495/virtual-society-guide/blob/main/Shop.md)** — buy roles and channels
