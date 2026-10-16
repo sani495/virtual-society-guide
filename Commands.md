@@ -57,6 +57,14 @@ You can also set your bio from `/settings` → User → Bio.
 
 ---
 
+## 🏆 Leaderboards
+
+| Command | What it does |
+|---|---|
+| `/leaderboard` | See the top 3 servers and top 3 users |
+
+---
+
 ## 🏦 Banks & Loans
 
 | Command | What it does |
