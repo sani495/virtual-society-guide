@@ -34,6 +34,7 @@ You can type `all` in place of a number:
 **`/banks`** shows two things:
 
 - **🏛️ Server Bank** — your server's treasury. Funds `/work` payouts and receives shop purchases.
+
 - **🌍 Global Bank** — the world's total money. Governors control it, and servers can borrow from it.
 
 Servers can take up to **3 loans** from the global bank.
