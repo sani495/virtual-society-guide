@@ -61,8 +61,7 @@ You can also set your bio from `/settings` → User → Bio.
 
 | Command | What it does |
 |---|---|
-| `/server-bank` | View this server's treasury |
-| `/global-bank` | View the world treasury |
+| `/bank` | View the entire treasury! |
 | `/server-loan amount:10000` | Borrow from the global bank (admins) |
 | `/loan-pay amount:10000` | Repay your server's loan (admins) |
 
