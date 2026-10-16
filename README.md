@@ -31,6 +31,7 @@ Then run `/work` every hour to earn. That's the core loop.
 - **[Government](https://github.com/sani495/virtual-society-guide/blob/main/Government.md)** — global bank, loans, promos
 - **[FAQ](https://github.com/sani495/virtual-society-guide/blob/main/FAQ.md)** — quick answers
 - **[For Server Owners](https://github.com/sani495/virtual-society-guide/blob/main/For-Server-Owners.md)** — add the bot, set it up
+- **[Leaderboard](Leaderboard)** - See who's on top!
 
 ### Systems Under Development
 
