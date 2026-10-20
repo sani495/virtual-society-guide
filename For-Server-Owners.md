@@ -25,6 +25,9 @@ This is how you show up in the government's partner list.
 
 Before anyone can work, your treasury needs money: `/fund amount:100000`
 
+🗒️ Your server is currently at level 1. You'll only be able to fund `100,000` at a time until you level up.
+
+**Server Levels coming soon!**
 
 Any admin with **Manage Server** permission can fund the treasury. 100k
 lasts a while for a small server.
