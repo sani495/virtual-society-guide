@@ -15,7 +15,7 @@ Use the invite link the bot owner shared. Standard permissions:
 ---
 
 ## 2. Set Up Your Server
-`/admim-config action:setservername value:Your Server Name`
+`/set-server-name name:Your Server Name`
 
 This is how you show up in the government's partner list.
 
