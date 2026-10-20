@@ -80,7 +80,7 @@ Same for channels:
 ---
 
 ## 6. Configure Welcome Messages (Optional)
-`/welcome-config action:welcomechannel value:123456789123456789
+`/welcome-config action:welcomechannel value:123456789123456789`
 
 `/welcome-config action:welcomemsg value:Welcome, {user}! Glad you're here.`
 
