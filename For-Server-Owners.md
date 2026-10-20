@@ -105,7 +105,8 @@ Shows:
 
 | Command | Purpose |
 |---|---|
-| `/admin-config` | Welcome + server name |
+| `/set-server-name` | Set server name |
+| `/settings` | The configuration for all types (owner, admin, members) |
 | `/owner-config` | Bot-owner only: global settings |
 | `/fund` | Fund money to your own treasury.
 | `/create-job` | Configure job slots |
