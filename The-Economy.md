@@ -70,7 +70,7 @@ server benefits.
 Servers are not just static places — they level up and earn rewards.
 
 ### How Servers Level Up
-Every time a member successfully uses `/work`, the server earns **1 Server XP**. 
+Every time a member successfully uses `/work`, the server earns **50 Server XP**. 
 Once the server reaches 1,000 XP, it levels up, the XP resets to 0, and the treasury deposit limit increases.
 
 *   **Level 1:** Max treasury deposit is 🪙 100,000
