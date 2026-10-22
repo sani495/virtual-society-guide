@@ -30,6 +30,28 @@ Money flows between all three.
 
 ---
 
+## 📈 Server Levels & Credits
+
+Servers are not just static places — they level up and earn rewards.
+
+### How Servers Level Up
+Every time a member successfully uses `/work`, the server earns **1 Server XP**. 
+Once the server reaches 1,000 XP, it levels up, the XP resets to 0, and the treasury deposit limit increases.
+
+*   **Level 1:** Max treasury deposit is 🪙 100,000
+*   **Level 2:** Max treasury deposit is 🪙 200,000
+*   **Level 3:** Max treasury deposit is 🪙 300,000
+*(And so on...)*
+
+### What are Credits?
+Every time a server levels up, it earns **1 Credit**. Credits are a special government currency that server admins can spend using `/credits`.
+
+**How to spend Credits:**
+*   **Forgive Debt (1 Credit):** Wipes up to 🪙 300,000 off your server's loan debt.
+*   **Buy Loan Slot (2 Credits):** Removes 1 from your `Loans Taken` count, allowing you to borrow again even if you hit the 3-loan limit.
+
+---
+
 ## Why Work Fails
 
 If your server's treasury runs low, `/work` stops paying. This isn't a
