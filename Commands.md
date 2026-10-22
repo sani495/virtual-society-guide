@@ -72,6 +72,8 @@ You can also set your bio from `/settings` → User → Bio.
 | `/bank` | View the entire treasury! |
 | `/server-loan amount:10000` | Borrow from the global bank (admins) |
 | `/loan-pay amount:10000` | Repay your server's loan (admins) |
+| `/credits` | View or spend your server's Credits |
+| `/donate target:server amount:500` | Donate cash to the server treasury or global bank |
 
 ---
 
@@ -104,9 +106,9 @@ You can also set your bio from `/settings` → User → Bio.
 | `/create-job slot:1 name:Miner minpay:50 maxpay:150 level:1` | Create a job (admins) |
 | `/remove-job slot:1` | Delete a job (admins) |
 | `/set-cooldown minutes:60` | Set work cooldown (admins) |
-| `/set-levels xp:10 pay:5` | Set XP scaling (admins) |
 | `/set-coin emoji:🪙` | Set currency emoji (admins) |
-
+| `/set-levels` | Set XP scaling, or force a user to a specific level |
+| `/add` / `/take` | Add or remove cash from a user (uses server treasury) |
 ---
 
 ## 🛠️ Shop Configuration
@@ -144,4 +146,4 @@ These are only available to the bot developer. (Except for /government)
 
 ---
 
-*Last updated: 10/12/26*
+*Last updated: 10/22/26*
