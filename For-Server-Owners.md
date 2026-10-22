@@ -105,18 +105,22 @@ Shows:
 
 | Command | Purpose |
 |---|---|
-| `/set-server-name` | Set server name |
-| `/settings` | The configuration for all types (owner, admin, members) |
-| `/owner-config` | Bot-owner only: global settings |
-| `/fund` | Fund money to your own treasury.
-| `/create-job` | Configure job slots |
-| `/create-shop`| Make a shop for both role and channel |
-| `/shop-toggle` | Turn shops on/off |
-| `/remove-shop-item` | Remove item from shop |
-| `/server-bank` | View treasury |
-| `/server-loan` | Borrow from global bank |
+| `/set-server-name` | Set this server's name in the network |
+| `/welcome-config` | Welcome channel + message |
+| `/fund` | Add money to your treasury (limited by server level) |
+| `/add` / `/take` | Give or remove cash from a user's balance |
+| `/create-job` | Create a job slot |
+| `/set-levels` | Adjust server XP scaling or force a user's level |
+| `/remove-job` | Delete a job slot |
+| `/set-cooldown` | Set work cooldown |
+| `/set-coin` | Set currency emoji |
+| `/create-shop-item` | Add a role or channel to the shop |
+| `/remove-shop-item` | Remove an item from the shop |
+| `/shop-toggle` | Turn shops on or off |
+| `/banks` | View server and global treasury |
+| `/server-loan` | Borrow from the global bank |
 | `/loan-pay` | Repay a loan |
-| `/gov-grant` | Governors only: grant money |
+| `/credits` | View or spend server credits |
 | `/redeem` | Redeem a promo code |
 
 ---
