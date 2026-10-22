@@ -29,7 +29,7 @@ Type `all` instead of a number to move everything:
 | `/apply slot:1` | Apply for a job |
 | `/work` | Work a shift and earn money |
 | `/job-info` | See your job, level, and XP |
-| `/quitjob` | Leave your current job |
+| `/quit-job` | Leave your current job |
 
 ---
 
