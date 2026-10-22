@@ -39,7 +39,7 @@ Type `all` instead of a number to move everything:
 |---|---|
 | `/profile` | View your profile |
 | `/profile user:@someone` | View another player's profile |
-| `/setbio` | Set your profile bio |
+| `/set-profile` | Set your profile bio |
 
 You can also set your bio from `/settings` → User → Bio.
 
