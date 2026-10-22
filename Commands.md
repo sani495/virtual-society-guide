@@ -25,10 +25,10 @@ Type `all` instead of a number to move everything:
 
 | Command | What it does |
 |---|---|
-| `/jobs` | See available jobs on this server |
+| `/job-list` | See available jobs on this server |
 | `/apply slot:1` | Apply for a job |
 | `/work` | Work a shift and earn money |
-| `/jobinfo` | See your job, level, and XP |
+| `/job-info` | See your job, level, and XP |
 | `/quitjob` | Leave your current job |
 
 ---
