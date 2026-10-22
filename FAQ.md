@@ -119,6 +119,7 @@ sell, the transaction was automatically cancelled.
 ---
 
 **Why can't I deposit money into the treasury with `/fund`?**
+
 Your server's treasury has a deposit limit based on its level. Level 1 servers can only hold up to 100,000 per deposit. Level up your server by having members use `/work` to increase the limit!
 
 **What are Credits?**
