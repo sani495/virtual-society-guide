@@ -123,4 +123,5 @@ sell, the transaction was automatically cancelled.
 Your server's treasury has a deposit limit based on its level. Level 1 servers can only hold up to 100,000 per deposit. Level up your server by having members use `/work` to increase the limit!
 
 **What are Credits?**
+
 Credits are earned when your server levels up. Admins can spend them using `/credits` to forgive loan debt or unlock extra loan slots.
