@@ -18,6 +18,8 @@ Run these three commands the moment you join a server with Virtual Society:
 
 Then run `/work` every hour to earn. That's the core loop.
 
+## Coming Soon 
+Crime commands, Open businesses, mini-games!
 ---
 
 ## What's Inside
