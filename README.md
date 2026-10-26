@@ -45,6 +45,8 @@ Crime commands, Open businesses, mini-games!
 
 - **[Leaderboard](https://github.com/sani495/virtual-society-guide/blob/main/Leaderboard.md)** - See who's on top!
 
+- **[Early Testers](https://github.com/sani495/virtual-society-guide/blob/main/Early%2520Testers.md)** - help shape the bot, get early access
+
 ### Systems Under Development
 
 Some features are being built live. If a command doesn't work, it might
