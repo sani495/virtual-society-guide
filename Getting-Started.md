@@ -6,7 +6,7 @@ Your first 5 minutes in Virtual Society.
 
 ## 1. Check your wallet
 
-`/balance` - You start with **🪙 500 cash**. That's your seed money.
+`/balance` - You start with **🪙 1000 cash**. That's your seed money.
 
 You'll see two numbers:
 - **Cash** — spendable right now
