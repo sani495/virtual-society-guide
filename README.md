@@ -1,5 +1,5 @@
 # 🏛️ Virtual Simulator
-Welcome to **Virtual Society** — a persistent economy bot where every
+Welcome to **Virtual Simulator** — a persistent economy bot where every
 server is part of one connected world.
 
 You work, earn, spend, save, and borrow. Servers have their own
