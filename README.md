@@ -1,4 +1,4 @@
-# 🏛️ Virtual Society
+# 🏛️ Virtual Simulator
 Welcome to **Virtual Society** — a persistent economy bot where every
 server is part of one connected world.
 
