@@ -114,7 +114,7 @@ specific channel's access.
 **The player wasn't charged.** If the error happens during a buy or
 sell, the transaction was automatically cancelled.
 
-**Still stuck?** Join **[TwiceDice Support](https://discord.gg/Fwavq3GNxs)** and ping a staff member.
+**Still stuck?** Join **[support server](https://discord.gg/ehfSxR8yKR)** and ping a staff member.
 
 ---
 
