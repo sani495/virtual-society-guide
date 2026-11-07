@@ -127,4 +127,4 @@ Shows:
 
 ## Need Help?
 
-Join **TwiceDice Support**. The government lives there.
+Join the [support server](https://discord.gg/ehfSxR8yKR). The government lives there.
