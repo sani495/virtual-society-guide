@@ -1,7 +1,7 @@
 # 🏛️ The Government
 
 The government is a specific Discord server that runs the **global
-economy**. It's connected to [TwiceDice Support](https://discord.gg/pzSdaFzR83).
+economy**. It's connected to [support server](https://discord.gg/ehfSxR8yKR).
 
 ---
 
