@@ -1,11 +1,9 @@
 # ♍️ virgo
-Welcome to **Virtual Simulator** — a persistent economy bot where every
-server is part of one connected world.
+*where economies endure, and every coin is counted.*
 
-You work, earn, spend, save, and borrow. Servers have their own
-treasuries. Everything flows into a shared global bank. It's a small
-economy that lives across Discord.
+Welcome to **Virgo** — a persistent economy bot where every server is part of one connected world.
 
+You work, earn, spend, save, and borrow. Servers have their own treasuries. Everything flows into a shared global bank. It's a small, cozy economy that lives across Discord.
 ---
 
 ## Start Here
