@@ -4,6 +4,7 @@
 Welcome to **Virgo** — a persistent economy bot where every server is part of one connected world.
 
 You work, earn, spend, save, and borrow. Servers have their own treasuries. Everything flows into a shared global bank. It's a small, cozy economy that lives across Discord.
+
 ---
 
 ## Start Here
