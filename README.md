@@ -1,4 +1,4 @@
-# 🏛️ Virtual Simulator
+# ♍️ virgo
 Welcome to **Virtual Simulator** — a persistent economy bot where every
 server is part of one connected world.
 
